@@ -7,48 +7,29 @@
 godkänd men för enkel: 
 
  
-
- 
-
 let totalSumma = 1000;  
 
 let antalVänner = 4;  
 
 let dricks = 0.10;  
 
- 
 
 let totalDricks = totalSumma * dricks; 
 
- 
-
 let nySumma = totalSumma + totalDricks;  
-
- 
 
 let allaBetalar = nySumma / antalVänner; 
 
- 
-
 console.log(allaBetalar); 
 
- 
 
- 
-
- 
 
 /* försök till mer avenserad kod. 
 
  
-
- 
-
 ANGE "totalsumma" OCH SPARA SOM totalSumma 
 
 ANGE "antal personer" OCH SPARA SOM antalVänner 
-
- 
 
 OM totalSumma <= 1000 DÅ 
 
@@ -60,8 +41,6 @@ ANNARS
 
 SLUT OM 
 
- 
-
 BERÄKNA totalDricks = totalSumma * dricks 
 
 BERÄKNA nySumma = totalSumma + totalDricks 
@@ -69,7 +48,6 @@ BERÄKNA nySumma = totalSumma + totalDricks
 BERÄKNA allaBetalar = nySumma / antalVänner 
 
  
-
 SKRIV UT allaBetalar 
 
  
